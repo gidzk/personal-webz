@@ -1,6 +1,5 @@
 # A custom project for my personal webz 
 
-
 ##  How to run
 In the project directory, you can run:
 
