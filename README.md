@@ -1,13 +1,10 @@
 # A custom project for my personal webz 
 
 
-## TODOS:
-untzuntz
-
 ##  How to run
 In the project directory, you can run:
 
-### `yarn start` / `npm start
+### `yarn start` / `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -39,3 +36,19 @@ add config data
 ### Deployment
 
 TODO add url and howto steps
+
+### TODOS:
+### Improvements
+- customizable handle
+    - direction of handle:
+        - follow mouse
+        - inverted 
+        - custom (stretch)
+    - size of handle or optional style
+    - 
+- build a npm artifact of DiagImage and use 
+
+### Features
+- Timeline page
+    - Filter on catergory / (Dev,design,music)
+- About page
