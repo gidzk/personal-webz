@@ -59,12 +59,17 @@ $page-rotation:58deg;
   
   .layer .content-body{
     width:25%;
+    padding: 0em 5em;
     position:absolute;
+    user-select: none;
     top:50%;
     text-align: center;
     transform:translateY(-50%);
     color:#fff9ed;
     z-index: 5;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+      transform:translateY(-50%) scale(1.2)}
   }
   
   .layer img{
